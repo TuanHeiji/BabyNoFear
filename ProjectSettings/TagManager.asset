@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Trap
+  - Key
+  - Bullet
+  - Safe
   layers:
   - Default
   - TransparentFX
@@ -12,6 +15,9 @@ TagManager:
   - 
   - Water
   - UI
+  - BackGround
+  - LimMap
+  - ForeGround
   - Ground
   - 
   - 
@@ -35,12 +41,21 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 164681163
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1509463357
+    locked: 0
+  - name: Column
+    uniqueID: 1234614791
+    locked: 0
+  - name: Traffic
+    uniqueID: 4247226469
     locked: 0
   - name: Ground
     uniqueID: 2788831433
@@ -50,6 +65,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 975440187
+    locked: 0
+  - name: Item
+    uniqueID: 2567645955
     locked: 0
   - name: Oto
     uniqueID: 1682210635
