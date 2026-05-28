@@ -2138,7 +2138,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1123308335}
-  - component: {fileID: 1123308336}
   m_Layer: 0
   m_Name: Trap1
   m_TagString: Untagged
@@ -2165,23 +2164,6 @@ Transform:
   - {fileID: 456189439}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1123308336
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1123308332}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 151815ca9f0d62b4fa1041c7628db08e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LogicMap2_2
-  trap: {fileID: 289883628}
-  check: {fileID: 456189437}
-  posA: {fileID: 103502777}
-  posB: {fileID: 311670363}
-  speed: 25
 --- !u!4 &1191674292 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2632609996896437599, guid: 53348d219d80269419654cea9ba0826d, type: 3}

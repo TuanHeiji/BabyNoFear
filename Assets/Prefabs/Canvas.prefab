@@ -246,7 +246,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 250}
-  m_SizeDelta: {x: 900, y: 200}
+  m_SizeDelta: {x: 1028.0958, y: 209.6676}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5723620302443313193
 CanvasRenderer:
@@ -278,8 +278,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: GAME PAUSED
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a5ce0ccbc10537b4b81ed844ed3fa03f, type: 2}
+  m_sharedMaterial: {fileID: 4955776507686576403, guid: a5ce0ccbc10537b4b81ed844ed3fa03f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -383,7 +383,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 250}
-  m_SizeDelta: {x: 900, y: 200}
+  m_SizeDelta: {x: 1042.5973, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6066160105837825228
 CanvasRenderer:
@@ -415,8 +415,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: YOU LOSE =))
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a5ce0ccbc10537b4b81ed844ed3fa03f, type: 2}
+  m_sharedMaterial: {fileID: 4955776507686576403, guid: a5ce0ccbc10537b4b81ed844ed3fa03f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -916,7 +916,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 250}
-  m_SizeDelta: {x: 1000, y: 200}
+  m_SizeDelta: {x: 1079.7578, y: 190.3324}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6698654255959189278
 CanvasRenderer:
@@ -948,8 +948,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: YOU GOOD JOB
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a5ce0ccbc10537b4b81ed844ed3fa03f, type: 2}
+  m_sharedMaterial: {fileID: 4955776507686576403, guid: a5ce0ccbc10537b4b81ed844ed3fa03f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

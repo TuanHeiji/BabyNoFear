@@ -16,6 +16,7 @@ public class PlayerController : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private GameManager gameManager;
     private AudioManager audioManager;
+
     private void Awake()
     {
         animator = GetComponent<Animator>();
@@ -23,7 +24,7 @@ public class PlayerController : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         gameManager = FindAnyObjectByType<GameManager>();
         audioManager = FindAnyObjectByType<AudioManager>();
-        
+
     }
 
     void Start()
@@ -52,7 +53,7 @@ public class PlayerController : MonoBehaviour
     }
 
     
-    private void HandleJump()
+    private async void HandleJump()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer); 
 
