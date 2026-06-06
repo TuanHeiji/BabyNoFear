@@ -31,7 +31,7 @@ public class Oto : MonoBehaviour
 
     void Update()
     {
-        if (!active) return;   // ⛔ chưa kích hoạt thì khỏi chạy
+        if (!active) return;
         MoveCar();
     }
 

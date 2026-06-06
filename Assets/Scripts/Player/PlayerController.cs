@@ -53,7 +53,7 @@ public class PlayerController : MonoBehaviour
     }
 
     
-    private async void HandleJump()
+    private void HandleJump()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer); 
 

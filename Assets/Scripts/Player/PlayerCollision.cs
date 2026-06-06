@@ -22,8 +22,5 @@ public class PlayerCollision : MonoBehaviour
             audioManager.PlayGameWinSound();
             gameManager.GameWin();
         }
-
     }
-
-
 }

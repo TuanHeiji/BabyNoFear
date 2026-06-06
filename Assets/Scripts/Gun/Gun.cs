@@ -28,7 +28,6 @@ public class Gun : MonoBehaviour
     private void FlipGun()
     {
         float moveInput = Input.GetAxisRaw("Horizontal");
-
         if (moveInput > 0)
         {
             facingDirection = 1;
